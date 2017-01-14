@@ -1,0 +1,2 @@
+# yycg
+a project practic
