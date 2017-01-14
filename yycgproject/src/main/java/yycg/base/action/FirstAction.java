@@ -15,7 +15,7 @@ public class FirstAction {
 	//首页
 	@RequestMapping("/first")
 	public String first(Model model)throws Exception{
-		
+		System.out.println("hahahaha");
 		
 		return "/base/first";
 	}
@@ -26,5 +26,6 @@ public class FirstAction {
 		
 		return "/base/welcome";
 	}
+	
 
 }
