@@ -1,0 +1,11 @@
+package practice;
+
+public class singel {
+     private singel s = new singel();
+     
+     public static singel getSingel(){
+    	 return s;
+     }
+        
+}
+

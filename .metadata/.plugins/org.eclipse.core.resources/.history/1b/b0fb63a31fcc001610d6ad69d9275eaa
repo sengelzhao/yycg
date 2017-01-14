@@ -1,0 +1,17 @@
+package practice;
+
+import java.io.FileOutputStream;
+import java.util.Map;
+import java.util.Properties;
+
+public class arrayTesto {
+	  public static void main(String[] args) throws Exception{
+         Runtime rt = Runtime.getRuntime();
+         System.out.println("处理器数量是"+rt.availableProcessors());
+         System.out.println("空闲内存数是"+rt.freeMemory());
+         System.out.println("总内存数是"+rt.totalMemory());
+         System.out.println("最大可用内存数是"+rt.maxMemory());
+	  }
+        
+		
+}

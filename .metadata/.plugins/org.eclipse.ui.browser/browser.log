@@ -1,0 +1,736 @@
+
+10月 18, 2016 15:01:32.72 NEW SESSION
+10月 18, 2016 15:01:32.73 1476774092728	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 18, 2016 15:10:09.95 console.error: commonfix: 
+10月 18, 2016 15:10:09.95   Message: ReferenceError: reason is not defined
+10月 18, 2016 15:10:09.96   Stack:
+10月 18, 2016 15:10:09.96     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 18, 2016 15:10:09.96 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 18, 2016 15:10:09.96 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 18, 2016 15:10:09.96 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 18, 2016 15:10:09.96 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 18, 2016 15:10:09.96 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 18, 2016 15:10:09.96 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 18, 2016 15:10:09.96 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 18, 2016 15:10:09.96 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 18, 2016 15:10:09.96 
+
+10月 25, 2016 16:37:57.76 NEW SESSION
+10月 25, 2016 16:37:57.76 1477384677763	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 25, 2016 16:38:58.15 console.error: commonfix: 
+10月 25, 2016 16:38:58.15   Message: ReferenceError: reason is not defined
+10月 25, 2016 16:38:58.15   Stack:
+10月 25, 2016 16:38:58.15     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 25, 2016 16:38:58.15 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 25, 2016 16:38:58.15 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 25, 2016 16:38:58.15 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 25, 2016 16:38:58.16 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 25, 2016 16:38:58.16 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 25, 2016 16:38:58.16 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 25, 2016 16:38:58.16 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 25, 2016 16:38:58.16 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 25, 2016 16:38:58.16 
+10月 25, 2016 16:40:03.49 1477384803494	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 25, 2016 16:42:35.50 1477384955498	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+10月 25, 2016 16:56:55.81 NEW SESSION
+10月 25, 2016 16:56:55.81 1477385815814	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 25, 2016 17:02:58.23 1477386178230	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+10月 25, 2016 17:02:58.32 1477386178325	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+10月 25, 2016 17:02:58.71 1477386178712	addons.update-checker	WARN	Update manifest for asyncrendering@mozilla.org did not contain an updates property
+10月 25, 2016 17:02:58.75 1477386178751	addons.update-checker	WARN	Update manifest for d3d9fallback@mozilla.org did not contain an updates property
+10月 25, 2016 17:03:01.61 1477386181612	addons.update-checker	WARN	Update manifest for wrc@avast.com did not contain an updates property
+10月 25, 2016 17:03:02.18 1477386182179	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+10月 25, 2016 17:03:04.90 1477386184898	addons.update-checker	WARN	Update manifest for sp@avast.com did not contain an updates property
+10月 25, 2016 17:03:05.23 1477386185233	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+
+10月 25, 2016 18:23:09.76 NEW SESSION
+10月 25, 2016 18:23:09.76 1477390989759	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 25, 2016 18:32:00.81 console.error: commonfix: 
+10月 25, 2016 18:32:00.81   Message: ReferenceError: reason is not defined
+10月 25, 2016 18:32:00.81   Stack:
+10月 25, 2016 18:32:00.81     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 25, 2016 18:32:00.81 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 25, 2016 18:32:00.81 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 25, 2016 18:32:00.81 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 25, 2016 18:32:00.81 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 25, 2016 18:32:00.81 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 25, 2016 18:32:00.81 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 25, 2016 18:32:00.81 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 25, 2016 18:32:00.81 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 25, 2016 18:32:00.81 
+10月 25, 2016 18:32:01.72 [NPAPI 3760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+10月 25, 2016 18:35:59.37 NEW SESSION
+10月 25, 2016 18:35:59.37 1477391759377	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+10月 25, 2016 19:04:30.46 NEW SESSION
+10月 25, 2016 19:04:30.46 1477393470463	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+10月 25, 2016 21:18:27.95 NEW SESSION
+10月 25, 2016 21:18:27.95 1477401507948	addons.xpi-utils	WARN	addMetadata: Add-on {1B33E42F-EF14-4cd3-B6DC-174571C4349C} is invalid: Error: Directory C:\Users\hasee\AppData\Roaming\Mozilla\Firefox\Profiles\fjb0l263.default\extensions\{1B33E42F-EF14-4cd3-B6DC-174571C4349C} does not contain a valid install manifest (resource://gre/modules/addons/XPIProvider.jsm:1332:11) JS Stack trace: loadManifestFromDir<@XPIProvider.jsm:1332:11 < TaskImpl_run@Task.jsm:319:40 < TaskImpl@Task.jsm:280:3 < createAsyncFunction/asyncFunction@Task.jsm:254:14 < loadManifestFromFile@XPIProvider.jsm:1482:12 < syncLoadManifestFromFile@XPIProvider.jsm:1493:3 < addMetadata@XPIProviderUtils.js:1650:21 < processFileChanges@XPIProviderUtils.js:2014:23 < this.XPIProvider.checkForChanges@XPIProvider.jsm:3716:34 < this.XPIProvider.startup@XPIProvider.jsm:2706:25 < callProvider@AddonManager.jsm:236:12 < _startProvider@AddonManager.jsm:787:5 < AddonManagerInternal.startup@AddonManager.jsm:971:9 < this.AddonManagerPrivate.startup@AddonManager.jsm:2965:5 < amManager.prototype.observe@addonManager.js:71:9
+10月 25, 2016 21:18:28.97 1477401508973	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 25, 2016 21:39:08.48 console.error: commonfix: 
+10月 25, 2016 21:39:08.48   Message: ReferenceError: reason is not defined
+10月 25, 2016 21:39:08.48   Stack:
+10月 25, 2016 21:39:08.48     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 25, 2016 21:39:08.49 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 25, 2016 21:39:08.49 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 25, 2016 21:39:08.49 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 25, 2016 21:39:08.49 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 25, 2016 21:39:08.49 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 25, 2016 21:39:08.49 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 25, 2016 21:39:08.49 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 25, 2016 21:39:08.49 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 25, 2016 21:39:08.49 
+
+10月 26, 2016 10:54:15.14 NEW SESSION
+10月 26, 2016 10:54:15.14 1477450455144	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 26, 2016 11:44:08.59 [NPAPI 5912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+10月 26, 2016 17:04:17.84 1477472657824	addons.update-checker	WARN	Request failed: https://addons.firefox.com.cn/chinaedition/addons/updates.json - [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 171"  data: no]
+10月 26, 2016 17:04:18.31 1477472658295	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/zh-CN/firefox/api/1.5/search/guid:cehomepage%40mozillaonline.com?src=firefox&appOS=WINNT&appVersion=49.0.1 aMaxResults 1
+10月 26, 2016 17:04:18.31 1477472658295	addons.repository	WARN	Search failed when adding add-ons to cache
+10月 26, 2016 17:04:18.58 1477472658564	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/zh-CN/firefox/api/1.5/search/guid:coba%40mozilla.com.cn?src=firefox&appOS=WINNT&appVersion=49.0.1 aMaxResults 1
+10月 26, 2016 17:04:18.58 1477472658564	addons.repository	WARN	Search failed when adding add-ons to cache
+10月 26, 2016 17:04:19.14 1477472659126	addons.update-checker	WARN	Update manifest for sp@avast.com did not contain an updates property
+10月 26, 2016 17:04:19.20 1477472659184	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+10月 26, 2016 17:04:19.21 1477472659200	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+10月 26, 2016 17:04:19.23 1477472659216	addons.update-checker	WARN	Update manifest for wrc@avast.com did not contain an updates property
+10月 26, 2016 17:04:19.39 1477472659374	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+10月 26, 2016 17:04:19.40 1477472659388	addons.update-checker	WARN	Update manifest for asyncrendering@mozilla.org did not contain an updates property
+10月 26, 2016 17:04:19.43 1477472659414	addons.update-checker	WARN	Update manifest for d3d9fallback@mozilla.org did not contain an updates property
+10月 26, 2016 17:04:25.03 1477472665016	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+10月 26, 2016 17:04:43.16 1477472683146	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+10月 26, 2016 17:53:45.94 console.error: commonfix: 
+10月 26, 2016 17:53:45.94   Message: ReferenceError: reason is not defined
+10月 26, 2016 17:53:45.94   Stack:
+10月 26, 2016 17:53:45.94     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 26, 2016 17:53:45.94 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 26, 2016 17:53:45.94 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 26, 2016 17:53:45.95 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 26, 2016 17:53:45.95 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 26, 2016 17:53:45.95 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 26, 2016 17:53:45.95 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 26, 2016 17:53:45.95 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 26, 2016 17:53:45.95 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 26, 2016 17:53:45.95 
+10月 26, 2016 17:53:46.01 Handler function threw an exception: TypeError: threadActor is null
+10月 26, 2016 17:53:46.01 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 26, 2016 17:53:46.01 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 26, 2016 17:53:46.01 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 26, 2016 17:53:46.01 Line: 1882, column: 1
+10月 26, 2016 17:53:46.01 console.error: 
+10月 26, 2016 17:53:46.01   Handler function threw an exception: TypeError: threadActor is null
+10月 26, 2016 17:53:46.01 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 26, 2016 17:53:46.01 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 26, 2016 17:53:46.01 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 26, 2016 17:53:46.01 Line: 1882, column: 1
+10月 26, 2016 17:53:46.02 Handler function threw an exception: TypeError: threadActor is null
+10月 26, 2016 17:53:46.02 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 26, 2016 17:53:46.02 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 26, 2016 17:53:46.02 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 26, 2016 17:53:46.02 Line: 1882, column: 1
+10月 26, 2016 17:53:46.02 console.error: 
+10月 26, 2016 17:53:46.02   Handler function threw an exception: TypeError: threadActor is null
+10月 26, 2016 17:53:46.02 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 26, 2016 17:53:46.02 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 26, 2016 17:53:46.02 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 26, 2016 17:53:46.02 Line: 1882, column: 1
+
+10月 27, 2016 15:23:39.95 NEW SESSION
+10月 27, 2016 15:23:39.95 1477553019956	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 27, 2016 16:09:40.72 [NPAPI 2288] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+10月 27, 2016 16:54:13.05 console.error: 
+10月 27, 2016 16:54:13.05   Message: TypeError: can't access dead object
+10月 27, 2016 16:54:13.05   Stack:
+10月 27, 2016 16:54:13.05     getInnerId@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/window/utils.js:78:3
+10月 27, 2016 16:54:13.05 initialize@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/content/worker-child.js:36:21
+10月 27, 2016 16:54:13.05 constructor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/core/heritage.js:146:23
+10月 27, 2016 16:54:13.05 @resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/content/worker-child.js:149:16
+10月 27, 2016 16:54:13.05 emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+10月 27, 2016 16:54:13.05 emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+10月 27, 2016 16:54:13.05 messageReceived@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/remote/child.js:67:37
+10月 27, 2016 16:54:13.05 
+10月 27, 2016 17:04:17.18 1477559057157	addons.update-checker	WARN	Request failed: https://addons.firefox.com.cn/chinaedition/addons/updates.json - [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 171"  data: no]
+10月 27, 2016 17:04:18.27 1477559058247	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+10月 27, 2016 17:04:18.28 1477559058262	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+10月 27, 2016 17:04:18.30 1477559058276	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+10月 27, 2016 17:04:18.85 1477559058833	addons.update-checker	WARN	Update manifest for sp@avast.com did not contain an updates property
+10月 27, 2016 17:04:18.88 1477559058858	addons.update-checker	WARN	Update manifest for wrc@avast.com did not contain an updates property
+10月 27, 2016 17:04:21.98 1477559061956	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+10月 28, 2016 15:10:40.85 NEW SESSION
+10月 28, 2016 15:10:40.85 1477638640852	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 28, 2016 15:12:47.28 1477638767278	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+10月 28, 2016 16:54:23.00 [GFX1-]: Could not borrow DrawTarget (D3D11) 0
+10月 28, 2016 17:03:14.94 [GFX1-]: Could not borrow DrawTarget (D3D11) 0
+10月 28, 2016 17:03:14.94 [GFX1-]: Could not borrow DrawTarget (D3D11) 0
+10月 28, 2016 17:03:14.94 [GFX1-]: Could not borrow DrawTarget (D3D11) 0
+10月 28, 2016 17:04:17.20 1477645457177	addons.update-checker	WARN	Request failed: https://addons.firefox.com.cn/chinaedition/addons/updates.json - [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 171"  data: no]
+10月 28, 2016 17:04:18.55 1477645458526	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+10月 28, 2016 17:04:18.59 1477645458566	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+10月 28, 2016 17:04:18.60 1477645458582	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+10月 28, 2016 17:04:18.62 1477645458603	addons.update-checker	WARN	Update manifest for asyncrendering@mozilla.org did not contain an updates property
+10月 28, 2016 17:04:18.64 1477645458623	addons.update-checker	WARN	Update manifest for sp@avast.com did not contain an updates property
+10月 28, 2016 17:04:18.75 1477645458727	addons.update-checker	WARN	Update manifest for wrc@avast.com did not contain an updates property
+10月 28, 2016 17:04:22.01 1477645461994	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+10月 28, 2016 17:06:31.34 [GFX1-]: Could not borrow DrawTarget (D3D11) 0
+10月 28, 2016 22:11:27.19 console.error: commonfix: 
+10月 28, 2016 22:11:27.23   Message: ReferenceError: reason is not defined
+10月 28, 2016 22:11:27.23   Stack:
+10月 28, 2016 22:11:27.23     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 28, 2016 22:11:27.23 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 28, 2016 22:11:27.23 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 28, 2016 22:11:27.23 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 28, 2016 22:11:27.23 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 28, 2016 22:11:27.23 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 28, 2016 22:11:27.23 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 28, 2016 22:11:27.23 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 28, 2016 22:11:27.23 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 28, 2016 22:11:27.23 
+10月 28, 2016 22:11:27.44 Handler function threw an exception: TypeError: threadActor is null
+10月 28, 2016 22:11:27.44 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 28, 2016 22:11:27.44 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 28, 2016 22:11:27.44 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 28, 2016 22:11:27.44 Line: 1882, column: 1
+10月 28, 2016 22:11:27.45 console.error: 
+10月 28, 2016 22:11:27.45   Handler function threw an exception: TypeError: threadActor is null
+10月 28, 2016 22:11:27.45 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 28, 2016 22:11:27.45 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 28, 2016 22:11:27.45 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 28, 2016 22:11:27.45 Line: 1882, column: 1
+
+10月 29, 2016 10:11:47.60 NEW SESSION
+10月 29, 2016 10:11:47.60 1477707107603	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 29, 2016 11:06:28.57 console.error: commonfix: 
+10月 29, 2016 11:06:28.57   Message: ReferenceError: reason is not defined
+10月 29, 2016 11:06:28.57   Stack:
+10月 29, 2016 11:06:28.57     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 29, 2016 11:06:28.57 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 29, 2016 11:06:28.57 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 29, 2016 11:06:28.57 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 29, 2016 11:06:28.57 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 29, 2016 11:06:28.58 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 29, 2016 11:06:28.58 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 29, 2016 11:06:28.58 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 29, 2016 11:06:28.58 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 29, 2016 11:06:28.58 
+10月 29, 2016 11:06:28.63 Handler function threw an exception: TypeError: threadActor is null
+10月 29, 2016 11:06:28.63 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 29, 2016 11:06:28.63 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 29, 2016 11:06:28.63 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 29, 2016 11:06:28.63 Line: 1882, column: 1
+10月 29, 2016 11:06:28.63 console.error: 
+10月 29, 2016 11:06:28.63   Handler function threw an exception: TypeError: threadActor is null
+10月 29, 2016 11:06:28.63 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 29, 2016 11:06:28.63 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 29, 2016 11:06:28.63 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 29, 2016 11:06:28.63 Line: 1882, column: 1
+10月 29, 2016 11:06:44.88 1477710404886	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 29, 2016 16:37:35.65 console.error: commonfix: 
+10月 29, 2016 16:37:35.65   Message: ReferenceError: reason is not defined
+10月 29, 2016 16:37:35.65   Stack:
+10月 29, 2016 16:37:35.65     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 29, 2016 16:37:35.65 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 29, 2016 16:37:35.65 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 29, 2016 16:37:35.65 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 29, 2016 16:37:35.65 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 29, 2016 16:37:35.65 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 29, 2016 16:37:35.65 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 29, 2016 16:37:35.65 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 29, 2016 16:37:35.65 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 29, 2016 16:37:35.65 
+10月 29, 2016 16:37:35.70 Handler function threw an exception: TypeError: threadActor is null
+10月 29, 2016 16:37:35.70 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 29, 2016 16:37:35.70 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 29, 2016 16:37:35.70 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 29, 2016 16:37:35.70 Line: 1882, column: 1
+10月 29, 2016 16:37:35.70 console.error: 
+10月 29, 2016 16:37:35.70   Handler function threw an exception: TypeError: threadActor is null
+10月 29, 2016 16:37:35.70 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 29, 2016 16:37:35.70 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 29, 2016 16:37:35.70 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 29, 2016 16:37:35.70 Line: 1882, column: 1
+10月 29, 2016 16:37:35.71 Handler function threw an exception: TypeError: threadActor is null
+10月 29, 2016 16:37:35.71 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 29, 2016 16:37:35.71 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 29, 2016 16:37:35.71 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 29, 2016 16:37:35.71 Line: 1882, column: 1
+10月 29, 2016 16:37:35.71 console.error: 
+10月 29, 2016 16:37:35.71   Handler function threw an exception: TypeError: threadActor is null
+10月 29, 2016 16:37:35.71 Stack: _windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1882:1
+10月 29, 2016 16:37:35.71 _changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1818:7
+10月 29, 2016 16:37:35.71 exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+10月 29, 2016 16:37:35.71 Line: 1882, column: 1
+10月 29, 2016 21:28:21.84 1477747701846	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 29, 2016 21:30:57.09 1477747857086	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+10月 29, 2016 21:34:52.32 1477748092315	addons.update-checker	WARN	Request failed: https://addons.firefox.com.cn/chinaedition/addons/updates.json - [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 171"  data: no]
+10月 29, 2016 21:34:55.10 1477748095092	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+10月 29, 2016 21:34:55.53 1477748095529	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+10月 29, 2016 21:34:55.69 1477748095684	addons.update-checker	WARN	Update manifest for sp@avast.com did not contain an updates property
+10月 29, 2016 21:34:55.77 1477748095770	addons.update-checker	WARN	Update manifest for asyncrendering@mozilla.org did not contain an updates property
+10月 29, 2016 21:34:56.93 1477748096925	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+10月 29, 2016 21:34:57.88 1477748097880	addons.update-checker	WARN	Update manifest for wrc@avast.com did not contain an updates property
+10月 29, 2016 21:35:00.24 1477748100241	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+10月 29, 2016 23:12:35.02 console.error: commonfix: 
+10月 29, 2016 23:12:35.02   Message: ReferenceError: reason is not defined
+10月 29, 2016 23:12:35.02   Stack:
+10月 29, 2016 23:12:35.02     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 29, 2016 23:12:35.02 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 29, 2016 23:12:35.03 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 29, 2016 23:12:35.03 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 29, 2016 23:12:35.03 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 29, 2016 23:12:35.03 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 29, 2016 23:12:35.03 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 29, 2016 23:12:35.03 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 29, 2016 23:12:35.03 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 29, 2016 23:12:35.03 
+
+10月 30, 2016 11:06:46.36 NEW SESSION
+10月 30, 2016 11:06:46.36 1477796806365	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+10月 30, 2016 11:09:58.57 console.error: commonfix: 
+10月 30, 2016 11:09:58.57   Message: ReferenceError: reason is not defined
+10月 30, 2016 11:09:58.57   Stack:
+10月 30, 2016 11:09:58.58     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+10月 30, 2016 11:09:58.58 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+10月 30, 2016 11:09:58.58 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+10月 30, 2016 11:09:58.58 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+10月 30, 2016 11:09:58.58 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+10月 30, 2016 11:09:58.58 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+10月 30, 2016 11:09:58.58 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+10月 30, 2016 11:09:58.58 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+10月 30, 2016 11:09:58.58 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+10月 30, 2016 11:09:58.58 
+
+12月 01, 2016 13:28:17.72 NEW SESSION
+12月 01, 2016 13:28:17.72 1480570097726	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 01, 2016 13:30:07.53 1480570207529	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+12月 01, 2016 13:33:13.78 console.error: commonfix: 
+12月 01, 2016 13:33:13.78   Message: ReferenceError: reason is not defined
+12月 01, 2016 13:33:13.78   Stack:
+12月 01, 2016 13:33:13.78     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 01, 2016 13:33:13.78 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 01, 2016 13:33:13.78 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 01, 2016 13:33:13.78 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 01, 2016 13:33:13.79 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 01, 2016 13:33:13.79 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 01, 2016 13:33:13.79 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 01, 2016 13:33:13.79 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 01, 2016 13:33:13.79 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 01, 2016 13:33:13.79 
+
+12月 01, 2016 13:43:38.32 NEW SESSION
+12月 01, 2016 13:43:38.32 1480571018321	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 01, 2016 13:47:44.10 1480571264101	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 01, 2016 13:47:44.10 1480571264101	addons.xpi	WARN	Add-on dict@www.youdao.com is not correctly signed.
+12月 01, 2016 13:49:38.22 1480571378218	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 01, 2016 13:49:38.22 1480571378220	addons.xpi	WARN	Add-on dict@www.youdao.com is not correctly signed.
+12月 01, 2016 13:53:39.71 1480571619702	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 01, 2016 13:53:40.71 1480571620703	addons.update-checker	WARN	Update manifest for wrc@avast.com did not contain an updates property
+12月 01, 2016 13:53:40.73 1480571620723	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+12月 01, 2016 13:53:40.74 1480571620738	addons.update-checker	WARN	Update manifest for sp@avast.com did not contain an updates property
+12月 01, 2016 13:53:40.97 1480571620972	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+12月 01, 2016 13:53:41.00 1480571620994	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+12月 01, 2016 13:53:41.02 1480571621015	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+12月 01, 2016 13:53:41.24 1480571621239	addons.update-checker	WARN	Update manifest for dict@www.youdao.com did not contain an updates property
+12月 01, 2016 13:53:41.91 1480571621903	addons.update-checker	WARN	Update manifest for asyncrendering@mozilla.org did not contain an updates property
+12月 01, 2016 16:43:08.52 console.warn: SDK worker-child started as frozen on unexpected initial document.readyState {"initialDocumentReadyState":"uninitialized","windowLocation":"about:cehome?from=extra_start"}
+
+12月 03, 2016 11:35:52.63 NEW SESSION
+12月 03, 2016 11:35:52.63 1480736152628	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+12月 03, 2016 12:17:12.65 NEW SESSION
+12月 03, 2016 12:17:12.65 1480738632651	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 03, 2016 12:17:42.85 console.error: 
+12月 03, 2016 12:17:42.85   Message: ReferenceError: reason is not defined
+12月 03, 2016 12:17:42.85   Stack:
+12月 03, 2016 12:17:42.85     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 03, 2016 12:17:42.85 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 03, 2016 12:17:42.85 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 03, 2016 12:17:42.85 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 03, 2016 12:17:42.85 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 03, 2016 12:17:42.85 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 03, 2016 12:17:42.85 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 03, 2016 12:17:42.85 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 03, 2016 12:17:42.85 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 03, 2016 12:17:42.85 
+12月 03, 2016 12:17:52.60 1480738672601	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 03, 2016 12:18:02.73 console.error: 
+12月 03, 2016 12:18:02.73   Message: ReferenceError: reason is not defined
+12月 03, 2016 12:18:02.74   Stack:
+12月 03, 2016 12:18:02.74     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 03, 2016 12:18:02.74 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 03, 2016 12:18:02.74 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 03, 2016 12:18:02.74 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 03, 2016 12:18:02.74 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 03, 2016 12:18:02.74 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 03, 2016 12:18:02.74 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 03, 2016 12:18:02.74 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 03, 2016 12:18:02.74 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 03, 2016 12:18:02.74 
+12月 03, 2016 12:19:08.22 1480738748224	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 03, 2016 12:20:52.20 console.error: 
+12月 03, 2016 12:20:52.20   Message: ReferenceError: reason is not defined
+12月 03, 2016 12:20:52.20   Stack:
+12月 03, 2016 12:20:52.21     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 03, 2016 12:20:52.21 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 03, 2016 12:20:52.21 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 03, 2016 12:20:52.21 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 03, 2016 12:20:52.21 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 03, 2016 12:20:52.21 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 03, 2016 12:20:52.21 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 03, 2016 12:20:52.21 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 03, 2016 12:20:52.21 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 03, 2016 12:20:52.21 
+
+12月 05, 2016 15:26:52.25 NEW SESSION
+12月 05, 2016 15:26:52.25 1480922812249	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 05, 2016 15:28:19.61 1480922899608	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+12月 05, 2016 15:35:01.23 1480923301220	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 05, 2016 15:35:01.23 1480923301220	addons.xpi	WARN	Add-on dict@www.youdao.com is not correctly signed.
+12月 05, 2016 15:36:52.19 1480923412181	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 05, 2016 15:36:52.19 1480923412183	addons.xpi	WARN	Add-on dict@www.youdao.com is not correctly signed.
+12月 05, 2016 15:40:52.85 1480923652831	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 05, 2016 15:40:53.97 1480923653958	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+12月 05, 2016 15:40:53.99 1480923653972	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+12月 05, 2016 15:40:54.00 1480923653985	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+12月 05, 2016 15:40:54.01 1480923653998	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+12月 05, 2016 15:40:54.03 1480923654011	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+12月 05, 2016 16:10:16.72 console.error: 
+12月 05, 2016 16:10:16.72   Message: ReferenceError: reason is not defined
+12月 05, 2016 16:10:16.72   Stack:
+12月 05, 2016 16:10:16.72     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 05, 2016 16:10:16.72 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 05, 2016 16:10:16.72 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 05, 2016 16:10:16.72 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 05, 2016 16:10:16.72 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 05, 2016 16:10:16.72 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 05, 2016 16:10:16.72 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 05, 2016 16:10:16.72 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 05, 2016 16:10:16.72 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 05, 2016 16:10:16.72 
+12月 05, 2016 18:45:29.54 1480934729543	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 05, 2016 18:51:05.81 console.error: 
+12月 05, 2016 18:51:05.81   Message: ReferenceError: reason is not defined
+12月 05, 2016 18:51:05.81   Stack:
+12月 05, 2016 18:51:05.81     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 05, 2016 18:51:05.81 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 05, 2016 18:51:05.81 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 05, 2016 18:51:05.81 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 05, 2016 18:51:05.81 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 05, 2016 18:51:05.81 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 05, 2016 18:51:05.81 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 05, 2016 18:51:05.81 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 05, 2016 18:51:05.81 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 05, 2016 18:51:05.81 
+
+12月 05, 2016 18:54:52.22 NEW SESSION
+12月 05, 2016 18:54:52.22 1480935292222	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 05, 2016 18:59:27.56 console.error: 
+12月 05, 2016 18:59:27.56   Message: ReferenceError: reason is not defined
+12月 05, 2016 18:59:27.56   Stack:
+12月 05, 2016 18:59:27.57     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 05, 2016 18:59:27.57 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 05, 2016 18:59:27.57 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 05, 2016 18:59:27.57 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 05, 2016 18:59:27.57 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 05, 2016 18:59:27.57 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 05, 2016 18:59:27.57 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 05, 2016 18:59:27.57 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 05, 2016 18:59:27.57 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 05, 2016 18:59:27.57 
+
+12月 05, 2016 19:01:38.28 NEW SESSION
+12月 05, 2016 19:01:38.28 1480935698288	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+12月 05, 2016 20:45:06.36 NEW SESSION
+12月 05, 2016 20:45:06.36 1480941906356	addons.xpi-utils	WARN	addMetadata: Add-on {1B33E42F-EF14-4cd3-B6DC-174571C4349C} is invalid: Error: Directory C:\Users\hasee\AppData\Roaming\Mozilla\Firefox\Profiles\fjb0l263.default\extensions\{1B33E42F-EF14-4cd3-B6DC-174571C4349C} does not contain a valid install manifest (resource://gre/modules/addons/XPIProvider.jsm:1341:11) JS Stack trace: loadManifestFromDir<@XPIProvider.jsm:1341:11 < TaskImpl_run@Task.jsm:319:40 < TaskImpl@Task.jsm:280:3 < createAsyncFunction/asyncFunction@Task.jsm:254:14 < loadManifestFromFile@XPIProvider.jsm:1494:12 < syncLoadManifestFromFile@XPIProvider.jsm:1505:3 < addMetadata@XPIProviderUtils.js:1650:21 < processFileChanges@XPIProviderUtils.js:2014:23 < this.XPIProvider.checkForChanges@XPIProvider.jsm:3728:34 < this.XPIProvider.startup@XPIProvider.jsm:2718:25 < callProvider@AddonManager.jsm:236:12 < _startProvider@AddonManager.jsm:788:5 < AddonManagerInternal.startup@AddonManager.jsm:972:9 < this.AddonManagerPrivate.startup@AddonManager.jsm:3016:5 < amManager.prototype.observe@addonManager.js:71:9
+12月 05, 2016 20:45:07.47 1480941907475	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+12月 07, 2016 18:56:42.89 NEW SESSION
+12月 07, 2016 18:56:42.89 1481108202891	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 07, 2016 18:59:15.39 1481108355390	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+12月 07, 2016 19:00:02.87 console.error: 
+12月 07, 2016 19:00:02.87   Message: ReferenceError: reason is not defined
+12月 07, 2016 19:00:02.87   Stack:
+12月 07, 2016 19:00:02.87     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 07, 2016 19:00:02.87 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 07, 2016 19:00:02.87 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 07, 2016 19:00:02.87 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 07, 2016 19:00:02.87 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 07, 2016 19:00:02.87 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 07, 2016 19:00:02.87 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 07, 2016 19:00:02.87 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 07, 2016 19:00:02.87 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 07, 2016 19:00:02.87 
+
+12月 07, 2016 19:02:20.92 NEW SESSION
+12月 07, 2016 19:02:20.92 1481108540923	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 07, 2016 19:03:33.70 console.error: 
+12月 07, 2016 19:03:33.70   Message: ReferenceError: reason is not defined
+12月 07, 2016 19:03:33.71   Stack:
+12月 07, 2016 19:03:33.71     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 07, 2016 19:03:33.71 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 07, 2016 19:03:33.71 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 07, 2016 19:03:33.71 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 07, 2016 19:03:33.71 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 07, 2016 19:03:33.71 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 07, 2016 19:03:33.71 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 07, 2016 19:03:33.71 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 07, 2016 19:03:33.71 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 07, 2016 19:03:33.71 
+
+12月 08, 2016 10:11:43.89 NEW SESSION
+12月 08, 2016 10:11:43.89 1481163103894	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 08, 2016 11:27:08.24 console.error: 
+12月 08, 2016 11:27:08.24   Message: ReferenceError: reason is not defined
+12月 08, 2016 11:27:08.24   Stack:
+12月 08, 2016 11:27:08.24     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 08, 2016 11:27:08.24 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 08, 2016 11:27:08.25 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 08, 2016 11:27:08.25 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 08, 2016 11:27:08.25 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 08, 2016 11:27:08.25 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 08, 2016 11:27:08.25 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 08, 2016 11:27:08.25 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 08, 2016 11:27:08.25 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 08, 2016 11:27:08.25 
+12月 08, 2016 15:09:23.85 1481180963851	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 08, 2016 16:49:39.54 console.error: 
+12月 08, 2016 16:49:39.80 
+12月 08, 2016 16:49:39.80 ###!!! [Parent][MessageChannel] Error: (msgtype=0xBA001C,name=PPluginModule::Msg_SettingChanged) Channel error: cannot send/recv
+12月 08, 2016 16:49:39.80 
+12月 08, 2016 16:49:39.80   Message: ReferenceError: reason is not defined
+12月 08, 2016 16:49:39.80   Stack:
+12月 08, 2016 16:49:39.80     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 08, 2016 16:49:39.80 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 08, 2016 16:49:39.80 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 08, 2016 16:49:39.80 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 08, 2016 16:49:39.80 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 08, 2016 16:49:39.80 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 08, 2016 16:49:39.80 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 08, 2016 16:49:39.80 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 08, 2016 16:49:39.80 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 08, 2016 16:49:39.80 
+
+12月 08, 2016 17:25:07.65 NEW SESSION
+12月 08, 2016 17:25:07.65 1481189107657	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 08, 2016 17:55:52.12 [NPAPI 6860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+12月 08, 2016 18:15:20.55 console.error: 
+12月 08, 2016 18:15:20.55   Message: ReferenceError: reason is not defined
+12月 08, 2016 18:15:20.55   Stack:
+12月 08, 2016 18:15:20.55     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 08, 2016 18:15:20.55 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 08, 2016 18:15:20.55 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 08, 2016 18:15:20.55 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 08, 2016 18:15:20.55 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 08, 2016 18:15:20.55 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 08, 2016 18:15:20.55 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 08, 2016 18:15:20.55 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 08, 2016 18:15:20.55 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 08, 2016 18:15:20.55 
+12月 08, 2016 18:15:21.07 [NPAPI 3280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+12月 09, 2016 11:13:26.95 NEW SESSION
+12月 09, 2016 11:13:26.95 1481253206955	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+12月 09, 2016 18:34:48.91 NEW SESSION
+12月 09, 2016 18:34:48.91 1481279688913	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 09, 2016 19:11:20.24 1481281880244	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 09, 2016 19:11:20.24 1481281880244	addons.xpi	WARN	Add-on dict@www.youdao.com is not correctly signed.
+12月 09, 2016 19:13:18.76 1481281998762	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 09, 2016 19:13:18.76 1481281998763	addons.xpi	WARN	Add-on dict@www.youdao.com is not correctly signed.
+12月 09, 2016 19:17:19.41 1481282239403	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 09, 2016 19:17:20.39 1481282240388	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+12月 09, 2016 19:17:20.42 1481282240410	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+12月 09, 2016 19:17:20.43 1481282240422	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+12月 09, 2016 19:17:20.44 1481282240435	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+12月 09, 2016 19:17:20.61 1481282240600	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+12月 09, 2016 20:37:15.33 console.error: 
+12月 09, 2016 20:37:15.47   Message: ReferenceError: reason is not defined
+12月 09, 2016 20:37:15.47   Stack:
+12月 09, 2016 20:37:15.47     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 09, 2016 20:37:15.47 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 09, 2016 20:37:15.47 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 09, 2016 20:37:15.47 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 09, 2016 20:37:15.47 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 09, 2016 20:37:15.47 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 09, 2016 20:37:15.47 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 09, 2016 20:37:15.47 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 09, 2016 20:37:15.47 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 09, 2016 20:37:15.47 
+
+12月 09, 2016 20:43:12.72 NEW SESSION
+12月 09, 2016 20:43:12.72 1481287392723	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 09, 2016 20:43:19.79 console.error: 
+12月 09, 2016 20:43:19.79   Message: ReferenceError: reason is not defined
+12月 09, 2016 20:43:19.79   Stack:
+12月 09, 2016 20:43:19.79     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 09, 2016 20:43:19.79 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 09, 2016 20:43:19.79 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 09, 2016 20:43:19.79 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 09, 2016 20:43:19.79 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 09, 2016 20:43:19.79 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 09, 2016 20:43:19.79 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 09, 2016 20:43:19.79 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 09, 2016 20:43:19.79 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 09, 2016 20:43:19.79 
+
+12月 09, 2016 20:46:20.10 NEW SESSION
+12月 09, 2016 20:46:20.10 1481287580101	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 09, 2016 20:46:38.68 console.error: 
+12月 09, 2016 20:46:38.68   Message: ReferenceError: reason is not defined
+12月 09, 2016 20:46:38.68   Stack:
+12月 09, 2016 20:46:38.68     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 09, 2016 20:46:38.68 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 09, 2016 20:46:38.68 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 09, 2016 20:46:38.68 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 09, 2016 20:46:38.68 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 09, 2016 20:46:38.68 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 09, 2016 20:46:38.68 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 09, 2016 20:46:38.69 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 09, 2016 20:46:38.69 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 09, 2016 20:46:38.69 
+
+12月 09, 2016 20:55:56.15 NEW SESSION
+12月 09, 2016 20:55:56.15 1481288156157	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+12月 09, 2016 21:28:02.76 NEW SESSION
+12月 09, 2016 21:28:02.76 1481290082765	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 09, 2016 21:28:26.08 console.warn: SDK worker-child started as frozen on unexpected initial document.readyState {"initialDocumentReadyState":"uninitialized","windowLocation":"about:cehome?from=extra_start"}
+
+12月 10, 2016 10:46:32.80 NEW SESSION
+12月 10, 2016 10:46:32.80 1481337992799	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 10, 2016 11:48:01.40 console.error: 
+12月 10, 2016 11:48:01.58   Message: ReferenceError: reason is not defined
+12月 10, 2016 11:48:01.58   Stack:
+12月 10, 2016 11:48:01.59     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 10, 2016 11:48:01.59 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 10, 2016 11:48:01.59 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 10, 2016 11:48:01.59 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 10, 2016 11:48:01.59 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 10, 2016 11:48:01.59 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 10, 2016 11:48:01.59 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 10, 2016 11:48:01.59 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 10, 2016 11:48:01.59 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 10, 2016 11:48:01.59 
+
+12月 11, 2016 16:37:36.75 NEW SESSION
+12月 11, 2016 16:37:36.75 1481445456751	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 11, 2016 16:54:22.27 [NPAPI 8640] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+12月 11, 2016 17:12:44.61 console.error: 
+12月 11, 2016 17:12:44.61   Message: ReferenceError: reason is not defined
+12月 11, 2016 17:12:44.61   Stack:
+12月 11, 2016 17:12:44.61     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 11, 2016 17:12:44.61 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 11, 2016 17:12:44.61 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 11, 2016 17:12:44.61 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 11, 2016 17:12:44.61 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 11, 2016 17:12:44.61 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 11, 2016 17:12:44.61 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 11, 2016 17:12:44.61 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 11, 2016 17:12:44.61 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 11, 2016 17:12:44.61 
+12月 11, 2016 17:12:44.73 
+12月 11, 2016 17:12:44.73 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80005,name=PPluginInstance::Msg_CreateChildPopupSurrogate) Channel error: cannot send/recv
+12月 11, 2016 17:12:44.73 
+12月 11, 2016 17:12:44.73 
+12月 11, 2016 17:12:44.73 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80020,name=PPluginInstance::Msg_AsyncSetWindow) Channel error: cannot send/recv
+12月 11, 2016 17:12:44.73 
+
+12月 11, 2016 17:28:21.10 NEW SESSION
+12月 11, 2016 17:28:21.10 1481448501102	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+12月 11, 2016 20:44:42.00 NEW SESSION
+12月 11, 2016 20:44:42.00 1481460281999	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 11, 2016 21:05:11.31 console.warn: SDK worker-child started as frozen on unexpected initial document.readyState {"initialDocumentReadyState":"uninitialized","windowLocation":"about:cehome?from=extra_start"}
+12月 11, 2016 21:08:00.86 console.error: 
+12月 11, 2016 21:08:00.86   Message: ReferenceError: reason is not defined
+12月 11, 2016 21:08:00.86   Stack:
+12月 11, 2016 21:08:00.86     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 11, 2016 21:08:00.86 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 11, 2016 21:08:00.86 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 11, 2016 21:08:00.86 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 11, 2016 21:08:00.86 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 11, 2016 21:08:00.86 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 11, 2016 21:08:00.86 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 11, 2016 21:08:00.86 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 11, 2016 21:08:00.86 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 11, 2016 21:08:00.86 
+12月 11, 2016 21:08:00.96 
+12月 11, 2016 21:08:00.97 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80005,name=PPluginInstance::Msg_CreateChildPopupSurrogate) Channel error: cannot send/recv
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80020,name=PPluginInstance::Msg_AsyncSetWindow) Channel error: cannot send/recv
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80005,name=PPluginInstance::Msg_CreateChildPopupSurrogate) Channel error: cannot send/recv
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80020,name=PPluginInstance::Msg_AsyncSetWindow) Channel error: cannot send/recv
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80005,name=PPluginInstance::Msg_CreateChildPopupSurrogate) Channel error: cannot send/recv
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:00.97 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80020,name=PPluginInstance::Msg_AsyncSetWindow) Channel error: cannot send/recv
+12月 11, 2016 21:08:00.97 
+12月 11, 2016 21:08:01.00 
+12月 11, 2016 21:08:01.00 ###!!! [Parent][MessageChannel] Error: (msgtype=0xBA001C,name=PPluginModule::Msg_SettingChanged) Channel error: cannot send/recv
+12月 11, 2016 21:08:01.00 
+12月 11, 2016 21:08:01.01 
+12月 11, 2016 21:08:01.01 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80005,name=PPluginInstance::Msg_CreateChildPopupSurrogate) Channel error: cannot send/recv
+12月 11, 2016 21:08:01.01 
+12月 11, 2016 21:08:01.01 
+12月 11, 2016 21:08:01.01 ###!!! [Parent][MessageChannel] Error: (msgtype=0xB80020,name=PPluginInstance::Msg_AsyncSetWindow) Channel error: cannot send/recv
+12月 11, 2016 21:08:01.01 
+
+12月 11, 2016 21:33:57.21 NEW SESSION
+12月 11, 2016 21:33:57.21 1481463237210	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 11, 2016 22:55:08.55 [NPAPI 7748] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+12月 11, 2016 23:01:22.19 console.error: 
+12月 11, 2016 23:01:22.19   Message: ReferenceError: reason is not defined
+12月 11, 2016 23:01:22.19   Stack:
+12月 11, 2016 23:01:22.19     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 11, 2016 23:01:22.19 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 11, 2016 23:01:22.19 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 11, 2016 23:01:22.19 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 11, 2016 23:01:22.19 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 11, 2016 23:01:22.19 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 11, 2016 23:01:22.19 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 11, 2016 23:01:22.19 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 11, 2016 23:01:22.20 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 11, 2016 23:01:22.20 
+12月 11, 2016 23:01:22.57 
+12月 11, 2016 23:01:22.57 ###!!! [Parent][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+12月 11, 2016 23:01:22.57 
+
+12月 12, 2016 16:24:36.29 NEW SESSION
+12月 12, 2016 16:24:36.29 1481531076298	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 12, 2016 16:27:32.76 1481531252761	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+12月 12, 2016 16:32:38.37 1481531558370	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 12, 2016 16:32:38.37 1481531558370	addons.xpi	WARN	Add-on dict@www.youdao.com is not correctly signed.
+12月 12, 2016 16:34:36.12 1481531676116	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 12, 2016 16:34:36.12 1481531676118	addons.xpi	WARN	Add-on dict@www.youdao.com is not correctly signed.
+12月 12, 2016 16:38:37.48 1481531917475	addons.xpi	WARN	Add-on gouwuassistant@gouwu.youdao.com is not correctly signed.
+12月 12, 2016 16:38:38.51 1481531918502	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+12月 12, 2016 16:38:38.54 1481531918526	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+12月 12, 2016 16:38:38.55 1481531918539	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+12月 12, 2016 16:38:38.56 1481531918552	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+12月 12, 2016 16:38:38.57 1481531918564	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+12月 16, 2016 22:11:59.17 NEW SESSION
+12月 16, 2016 22:11:59.17 1481897519165	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 16, 2016 22:12:15.11 console.error: 
+12月 16, 2016 22:12:15.11   Message: ReferenceError: reason is not defined
+12月 16, 2016 22:12:15.11   Stack:
+12月 16, 2016 22:12:15.11     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 16, 2016 22:12:15.11 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+12月 16, 2016 22:12:15.12 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+12月 16, 2016 22:12:15.12 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+12月 16, 2016 22:12:15.12 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 16, 2016 22:12:15.12 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+12月 16, 2016 22:12:15.12 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 16, 2016 22:12:15.12 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+12月 16, 2016 22:12:15.12 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+12月 16, 2016 22:12:15.12 

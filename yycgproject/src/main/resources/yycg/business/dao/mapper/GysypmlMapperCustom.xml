@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="yycg.business.dao.mapper.GysypmlMapperCustom" >
+  <sql id="query_gysypml_where">
+    <if test="gysypmlCustom!=null">
+       <if test="gysypmlCustom.usergysid!=null and gysypmlCustom.usergysid!=''">
+         and gysypml.usergysid = #{gysypmlCustom.usergysid}
+       </if>
+       <if test="gysypmlCustom.ypxxid!=null and gysypmlCustom.ypxxid!=''">
+				and gysypml.ypxxid = #{gysypmlCustom.ypxxid}
+	  </if>
+    </if>
+  </sql>
+  <sql id="query_gysypmlControl_where">
+  
+    <if test="gysypmlCustom!=null">
+       	<if test="gysypmlCustom.control!=null and gysypmlCustom.control!=''">
+				and gysypml_control.control = #{gysypmlCustom.control}
+			</if>
+			<if test="gysypmlCustom.usergysid!=null and gysypmlCustom.usergysid!=''">
+				and gysypml_control.usergysid = #{gysypmlCustom.usergysid}
+			</if>
+			<if test="gysypmlCustom.ypxxid!=null and gysypmlCustom.ypxxid!=''">
+				and gysypml_control.ypxxid = #{gysypmlCustom.ypxxid}
+			</if>
+    </if>
+  </sql>
+  
+
+
+
+   <select id="findAddGysypmlList" parameterType="yycg.business.pojo.vo.GysypmlQueryVo"
+         
+   resultType="yycg.business.pojo.vo.GysypmlCustom">
+   <if test="pageQuery!=null">
+			select page_2.*
+			from (select page_1.*, rownum page_num
+			from
+			(
+		</if>
+   select ypxx.id,
+		ypxx.bm,
+		ypxx.mc,
+		ypxx.jx,
+		ypxx.gg,
+		ypxx.zhxs,
+		ypxx.scqymc,
+		ypxx.spmc,
+		ypxx.zbjg,
+		ypxx.jyzt,
+
+		(select info
+		from dictinfo
+		where ypxx.jyzt = dictcode
+		and typecode = '003') jyztmc
+
+		from YPXX
+		where not exists
+		(select id from gysypml where usergysid = #{gysypmlCustom.usergysid}
+		 and ypxx.id = gysypml.ypxxid)
+   
+      
+		<include refid="yycg.business.dao.mapper.YpxxMapperCustom.query_ypxx_where" />
+   
+   <if test="pageQuery!=null">
+			) page_1
+        <![CDATA[
+         where rownum <= ${pageQuery.PageQuery_end}) page_2
+ where page_2.page_num >= ${pageQuery.PageQuery_start}
+ ]]>
+		</if>
+   </select>
+   
+    <select id="findAddGysypmlCount" parameterType="yycg.business.pojo.vo.GysypmlQueryVo"
+   resultType="int">
+   select count(*)
+
+		
+		from ypxx
+		where not exists
+		(select id from gysypml where usergysid = #{gysypmlCustom.usergysid}
+		 and ypxx.id = gysypml.ypxxid)
+   
+      <include refid="yycg.business.dao.mapper.YpxxMapperCustom.query_ypxx_where" />
+    
+
+   </select>
+   
+   <select id="findGysypmlList" parameterType="yycg.business.pojo.vo.GysypmlQueryVo" 
+   resultType="yycg.business.pojo.vo.GysypmlCustom">
+   <if test="pageQuery!=null">
+			select page_2.*
+			from (select page_1.*, rownum page_num
+			from
+			(
+		</if>
+		select gysypml.id gysypmlid,
+       gysypml.ypxxid,
+       gysypml.usergysid,
+       usergys.mc,
+       gysypml_control.control,
+       (select info
+          from dictinfo
+         where typecode = '008'
+           and dictcode = gysypml_control.control) controlmc,
+       ypxx.id,
+       ypxx.bm,
+       ypxx.mc,
+       ypxx.jx,
+       ypxx.gg,
+       ypxx.zhxs,
+       ypxx.scqymc,
+       ypxx.spmc,
+       ypxx.zbjg,
+       ypxx.jyzt,
+       
+       (select info
+          from dictinfo
+         where ypxx.jyzt = dictcode and typecode = '003') jyztmc
+
+  from YPXX, GYSYPML, usergys, gysypml_control
+ where ypxx.id = gysypml.ypxxid
+   and gysypml.usergysid = usergys.id
+   and gysypml_control.usergysid = gysypml.usergysid
+   and gysypml_control.ypxxid = gysypml.ypxxid
+
+  <include refid="query_gysypml_where"></include>
+   <include refid="query_gysypmlControl_where"></include>
+  <include refid="yycg.business.dao.mapper.YpxxMapperCustom.query_ypxx_where" />
+   
+   <if test="pageQuery!=null">
+			) page_1
+        <![CDATA[
+         where rownum <= ${pageQuery.PageQuery_end}) page_2
+ where page_2.page_num >= ${pageQuery.PageQuery_start}
+ ]]>
+		</if>
+   </select>
+		   
+   
+   
+   <select id="findGysypmlCount" parameterType="yycg.business.pojo.vo.GysypmlQueryVo" 
+   resultType="int">
+   select count(1)
+
+  from YPXX, GYSYPML, usergys, gysypml_control
+ where ypxx.id = gysypml.ypxxid
+   and gysypml.usergysid = usergys.id
+   and gysypml_control.usergysid = gysypml.usergysid
+   and gysypml_control.ypxxid = gysypml.ypxxid
+      
+   </select>
+</mapper>

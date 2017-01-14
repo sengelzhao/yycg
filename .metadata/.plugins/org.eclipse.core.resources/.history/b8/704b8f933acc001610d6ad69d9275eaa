@@ -1,0 +1,15 @@
+package practice;
+
+import java.util.Locale;
+
+public class arrayTesto {	
+	  int a = 100;
+	  public static void main(String[] args) throws Exception{
+         
+
+	
+ }
+	  void adda(){
+		 System.out.println(a +"aaaaaaaaaaaa");
+	  }
+}

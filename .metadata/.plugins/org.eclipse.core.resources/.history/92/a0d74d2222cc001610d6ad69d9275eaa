@@ -1,0 +1,12 @@
+package practice;
+
+import java.util.Locale;
+
+public class arrayTesto {
+	  public static void main(String[] args) throws Exception{
+         
+         System.out.println(Locale.getAvailableLocales());
+	  }
+        
+		
+}

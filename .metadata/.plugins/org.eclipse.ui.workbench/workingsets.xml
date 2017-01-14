@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1476758658430_4" label="yycg" name="yycg">
+<item elementID="=yycgparent" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springmybatis" type="4"/>
+<item elementID="=springmybatis" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1476758271198_0" label="Window Working Set" name="Aggregate for window 1476758271197"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1482476356824_2" label="Window Working Set" name="Aggregate for window 1482476356824"/>
+<mruList name="yycg"/>
+</workingSetManager>

@@ -1,0 +1,43 @@
+package practice;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+public class arrayTesto {	
+	public static void main(String[] args) throws Exception {
+                 
+          
+		
+		
+	}
+	
+	public double shouYi(int n,double rate,int money){
+		double sum=0;
+		if(n<=10){
+		for(int i=1;i<=n;i++)
+		{
+			sum += Math.pow(rate, i);
+		}
+		return sum*money;
+		}
+		if(n>10){
+			int i ;
+			for(i=1;i<=10;i++)
+			{
+				sum +=i*Math.pow(rate, i);
+			}
+			System.out.println(i);
+			return sum*money*Math.pow(rate, n-10);
+		
+			
+		} 
+	
+	}
+	
+	
+}
+	  
+	 
+
+
+

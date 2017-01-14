@@ -1,0 +1,22 @@
+package practice;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+public class arrayTesto {	
+	public static void main(String[] args) throws Exception {
+                 
+      System.out.println(2046.00*2046.00*2046.00);
+		
+		
+	}
+	
+
+	
+	
+}
+	  
+	 
+
+
+
