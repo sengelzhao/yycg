@@ -734,3 +734,33 @@
 12月 16, 2016 22:12:15.12 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
 12月 16, 2016 22:12:15.12 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
 12月 16, 2016 22:12:15.12 
+
+1月 14, 2017 12:38:17.98 NEW SESSION
+1月 14, 2017 12:38:17.98 1484368697986	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+1月 14, 2017 12:38:36.91 console.error: 
+1月 14, 2017 12:38:36.91   Message: ReferenceError: reason is not defined
+1月 14, 2017 12:38:36.91   Stack:
+1月 14, 2017 12:38:36.91     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+1月 14, 2017 12:38:36.91 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+1月 14, 2017 12:38:36.91 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+1月 14, 2017 12:38:36.91 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+1月 14, 2017 12:38:36.91 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+1月 14, 2017 12:38:36.91 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+1月 14, 2017 12:38:36.91 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+1月 14, 2017 12:38:36.91 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+1月 14, 2017 12:38:36.91 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+1月 14, 2017 12:38:36.91 
+1月 14, 2017 12:40:20.10 1484368820108	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+1月 14, 2017 12:43:31.30 console.error: 
+1月 14, 2017 12:43:31.30   Message: ReferenceError: reason is not defined
+1月 14, 2017 12:43:31.30   Stack:
+1月 14, 2017 12:43:31.30     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+1月 14, 2017 12:43:31.30 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+1月 14, 2017 12:43:31.30 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+1月 14, 2017 12:43:31.30 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+1月 14, 2017 12:43:31.30 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+1月 14, 2017 12:43:31.30 unload@resource://gre/modules/commonjs/toolkit/loader.js:954:3
+1月 14, 2017 12:43:31.30 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/hasee/AppData/Roaming/Mozilla/Firefox/Profiles/fjb0l263.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+1月 14, 2017 12:43:31.30 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4800:9
+1月 14, 2017 12:43:31.30 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2811:15
+1月 14, 2017 12:43:31.30 

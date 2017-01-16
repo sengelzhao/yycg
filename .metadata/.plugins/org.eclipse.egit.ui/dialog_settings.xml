@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="670" key="DIALOG_WIDTH"/>
+	<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+	<item value="556" key="DIALOG_HEIGHT"/>
+	<item value="393" key="DIALOG_X_ORIGIN"/>
+	<item value="68" key="DIALOG_Y_ORIGIN"/>
+	<list key="CommitDialog.authorValues">
+		<item value="Sengel &lt;m15828654679@163.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Sengel &lt;m15828654679@163.com&gt;"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="666" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="463" key="DIALOG_HEIGHT"/>
+		<item value="395" key="DIALOG_X_ORIGIN"/>
+		<item value="130" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
+		<item value="538" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="702" key="DIALOG_HEIGHT"/>
+		<item value="315" key="DIALOG_X_ORIGIN"/>
+		<item value="39" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="J:\javacode13\.git">
+			<item value="false"/>
+			<item value="Sengel &lt;m15828654679@163.com&gt;"/>
+			<item value="a"/>
+			<item value="Sengel &lt;m15828654679@163.com&gt;"/>
+			<item value="da691f999d846120f0a08557c1ac38a517087975"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
