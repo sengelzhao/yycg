@@ -15,4 +15,5 @@
 	<!-- 药品目录 -->
 	<bean id="ypxxService" class="yycg.business.service.impl.YpxxServiceImpl" />
     <bean id="YpmlService" class="yycg.business.service.impl.YpmlServiceImpl" />
+    <bean id="YycgdService" class="yycg.business.service.impl.YycgdServiceImpl" />
 </beans>

@@ -1,6 +1,6 @@
 package yycg.base.process.result;
 
-import java.util.List;
+import java.util.List; 
 
 import yycg.util.ResourcesUtil;
 

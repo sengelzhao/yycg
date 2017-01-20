@@ -12,6 +12,10 @@
                {"icon" : "icon-sys","menuid" : "1","menuname" : "供货商药品目录 ","url" : "","menus" : [
                  {"icon" : "icon-log","menuid" : "1_1","menuname" : "供货商药品目录维护","url" : "/yycgproject/ypml/querygysypml.action"
                  }] 
+               },
+               {"icon" : "icon-sys","menuid" : "1","menuname" : "采购单管理 ","url" : "","menus" : [
+                 {"icon" : "icon-log","menuid" : "1_1","menuname" : "创建采购单","url" : "/yycgproject/cgd/addcgd.action"
+                 }] 
                }
              ]
 }
